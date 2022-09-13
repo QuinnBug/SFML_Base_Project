@@ -1,0 +1,65 @@
+﻿  Engine.cpp
+C:\Users\Quinn\source\repos\SFML_RockPaperScissors\SFML_RockPaperScissors\Engine.cpp(16,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Quinn\source\repos\SFML_RockPaperScissors\SFML_RockPaperScissors\Engine.cpp(16,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Quinn\source\repos\SFML_RockPaperScissors\SFML_RockPaperScissors\Engine.cpp(31,95): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Quinn\source\repos\SFML_RockPaperScissors\SFML_RockPaperScissors\Engine.cpp(31,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Quinn\source\repos\SFML_RockPaperScissors\SFML_RockPaperScissors\Engine.cpp(31,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Quinn\source\repos\SFML_RockPaperScissors\SFML_RockPaperScissors\Engine.cpp(31,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Quinn\source\repos\SFML_RockPaperScissors\SFML_RockPaperScissors\Engine.cpp(61,97): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Quinn\source\repos\SFML_RockPaperScissors\SFML_RockPaperScissors\Engine.cpp(61,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(149,77): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2006): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,sf::Texture&,sf::Vector2<float>,sf::Vector2<float>,int>(_Ty &,sf::Texture &,sf::Vector2<float> &&,sf::Vector2<float> &&,int &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Player
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2725): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<sf::Texture&,sf::Vector2<float>,sf::Vector2<float>,int>(sf::Texture &,sf::Vector2<float> &&,sf::Vector2<float> &&,int &&)' being compiled
+          with
+          [
+              _Ty=Player
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2726): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<sf::Texture&,sf::Vector2<float>,sf::Vector2<float>,int>(sf::Texture &,sf::Vector2<float> &&,sf::Vector2<float> &&,int &&)' being compiled
+          with
+          [
+              _Ty=Player
+          ]
+C:\Users\Quinn\source\repos\SFML_RockPaperScissors\SFML_RockPaperScissors\Engine.cpp(19): message : see reference to function template instantiation 'std::shared_ptr<Player> std::make_shared<Player,sf::Texture&,sf::Vector2f,sf::Vector2f,int>(sf::Texture &,sf::Vector2f &&,sf::Vector2f &&,int &&)' being compiled
+  Source.cpp
+  Generating Code...
+  SFML_RockPaperScissors.vcxproj -> C:\Users\Quinn\source\repos\SFML_RockPaperScissors\x64\Debug\SFML_RockPaperScissors.exe
